@@ -562,7 +562,7 @@
         "description_location": "An event message from the system",
         "value_english": "Team {0} {1} has covered the queen",
         "value_translated_automated": "Команда {0} {1} прикрыла ферзя",
-        "value_translated_native": "Команда {0} {1} прикрыла королеву"
+        "value_translated_native": "Команда {0} {1} покрыли королеву"
       },
       {
         "$type": "Translation, Assembly-CSharp-Editor",
@@ -571,7 +571,7 @@
         "description_location": "An event message from the system",
         "value_english": "Team {0} {1} must now complete the cover",
         "value_translated_automated": "Команда {0} {1} теперь должна завершить прикрытие.",
-        "value_translated_native": "Команда {0} {1} теперь должна завершить прикрытие."
+        "value_translated_native": "Команда {0} {1} теперь должны завершить покрытие."
       },
       {
         "$type": "Translation, Assembly-CSharp-Editor",
@@ -598,7 +598,7 @@
         "description_location": "An event message from the system",
         "value_english": "Team {0} {1} has fouled",
         "value_translated_automated": "Команда {0} {1} нарушила правила",
-        "value_translated_native": "Команда {0} {1} нарушила правила"
+        "value_translated_native": "Команда {0} {1} нарушили правила"
       },
       {
         "$type": "Translation, Assembly-CSharp-Editor",
@@ -688,7 +688,7 @@
         "description_location": "An option in a drop down menu in the rules menu",
         "value_english": "Default",
         "value_translated_automated": "По умолчанию",
-        "value_translated_native": null
+        "value_translated_native": "По умолчанию"
       },
       {
         "$type": "Translation, Assembly-CSharp-Editor",
@@ -697,7 +697,7 @@
         "description_location": "An option in a drop down menu in the rules menu",
         "value_english": "Disc Pool",
         "value_translated_automated": "Дисковый пул",
-        "value_translated_native": "Диск Пул"
+        "value_translated_native": "Диск-Пул"
       },
       {
         "$type": "Translation, Assembly-CSharp-Editor",
@@ -1120,7 +1120,7 @@
         "description_location": "A rule in the rules menu",
         "value_english": "Uniform Striker",
         "value_translated_automated": "Униформа нападающего",
-        "value_translated_native": "Одинаковый страйкер"
+        "value_translated_native": "Одинаковая бита"
       },
       {
         "$type": "Translation, Assembly-CSharp-Editor",
@@ -1588,7 +1588,7 @@
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Here's a scenario. Watch the bot pocket and then cover the queen.",
         "value_translated_automated": "Вот сценарий. Следите за карманом бота, а затем прикройте королеву.",
-        "value_translated_native": "Вот пример ситуации. Смотрите, как бот забивает королеву и затем «покрывает» её."
+        "value_translated_native": "Вот пример ситуации. Смотрите, как бот забивает королеву и затем покрывает её."
       },
       {
         "$type": "Translation, Assembly-CSharp-Editor",
