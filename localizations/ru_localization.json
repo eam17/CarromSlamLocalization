@@ -265,7 +265,7 @@
         "description_location": "A rebindable action in the controls tab of the settings menu",
         "value_english": "Toggle Chat",
         "value_translated_automated": "Переключить чат",
-        "value_translated_native": "Переключить чат"
+        "value_translated_native": "Включить чат"
       },
       {
         "$type": "Translation, Assembly-CSharp-Editor",
@@ -319,7 +319,7 @@
         "description_location": "A rebindable action in the controls tab of the settings menu",
         "value_english": "Toggle Scoreboard",
         "value_translated_automated": "Переключить табло",
-        "value_translated_native": "Переключить табло"
+        "value_translated_native": "Включить табло"
       },
       {
         "$type": "Translation, Assembly-CSharp-Editor",
